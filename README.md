@@ -10,8 +10,8 @@
 <h3 align="left">Pictures of project:</h3>
 
 ![photo_2024-06-19_23-25-39](https://github.com/hussaintaher/robotic-arm/assets/63205254/e915732a-48e6-4d9f-bfdd-0a0fd7d526d6)
-https://github.com/hussaintaher/robotic-arm/assets/63205254/52ad461a-a5f8-4c3f-8e37-e155d98dd946
 
+https://github.com/hussaintaher/robotic-arm/assets/63205254/7a7cc76e-1ed4-456f-9571-3df1f7522e43
 
 
 <h3 align="left">Electronic Devices:</h3>
@@ -23,3 +23,8 @@ https://github.com/hussaintaher/robotic-arm/assets/63205254/52ad461a-a5f8-4c3f-8
   <li>TCS3200 Color Sensor</li>
   <li>Wires</li>
 </ul>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/hussaintaher/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hussainalhofufy/" height="30" width="40" /></a>
+</p>
