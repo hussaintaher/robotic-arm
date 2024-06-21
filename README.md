@@ -8,8 +8,7 @@
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Pictures of project:</h3>
-
-![photo_2024-06-19_23-25-39](https://github.com/hussaintaher/robotic-arm/assets/63205254/e915732a-48e6-4d9f-bfdd-0a0fd7d526d6)
+<img align="left" src="https://github.com/hussaintaher/robotic-arm/assets/63205254/e915732a-48e6-4d9f-bfdd-0a0fd7d526d6" alt="cplusplus" width="500" height="100%"/>
 
 https://github.com/hussaintaher/robotic-arm/assets/63205254/7a7cc76e-1ed4-456f-9571-3df1f7522e43
 
